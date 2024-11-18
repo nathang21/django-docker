@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 
 # Enable production settings by default; for development, this can be set to 
 # `false` in `docker run --env`
